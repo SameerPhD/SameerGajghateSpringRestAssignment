@@ -1,6 +1,6 @@
 #  Great Learning Lab 6 - College Fest - Spring Boot and Spring Security
 
-This repo contains the project **Great Learning Back-End Development Lab 6 - College Fest - Spring Boot and Spring Security**. This is a Spring Boot application along with Spring Security developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification.
+This repo contains the project **Great Learning Back-End Development Lab 6 - College Fest - Spring Boot and Spring Security**. This is a Spring Boot application along with Spring Security developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**]certification.
 
 
 ##  Problem Statement
@@ -31,7 +31,7 @@ This Spring Boot application, after running it, can be accessed at the URL http:
 
 ### Account Details
 Since, currently there is no Registration process in this application, therefore, we have to use the SQL query to insert values in the `USERS`, `ROLES` and `USERS_ROLES`.
-In order to insert the values in the tables use [CollegeFestScript.sql](https://github.com/shubhamshukla7794/ShubhamKShukla_Lab-SpringAssignmentSolution/blob/main/CollegeFestScript.sql "CollegeFestScript.sql") script.
+In order to insert the values in the tables use [CollegeFestScript.sql] (https://github.com/SameerPhD/SameerGajghateSpringRestAssignment/blob/main/CollegeFestScript.sql "CollegeFestScript.sql") script.
 
 - The credentials for **ADMIN** login is
     > **Username** - `admin`
