@@ -1,6 +1,6 @@
 #  Great Learning Lab 6 - College Fest - Spring Boot and Spring Security
 
-This repo contains the project **Great Learning Back-End Development Lab 6 - College Fest - Spring Boot and Spring Security**. This is a Spring Boot application along with Spring Security developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**]certification.
+This repo contains the project **Great Learning Back-End Development Lab 6 - College Fest - Spring Boot and Spring Security**. This is a Spring Boot application along with Spring Security developed for certification.
 
 
 ##  Problem Statement
